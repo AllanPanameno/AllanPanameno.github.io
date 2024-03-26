@@ -1,86 +1,52 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Allan Panameno's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# Allan Panameno
+385-358-4060 | pan20004@byui.edu | www.linkedin.com/in/allanpanameno
 
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+Major: B.S Business Analytics - 
+GPA: 3.85 
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+Minor: Supply Chain Management
+Brigham Young University – Idaho
+Certificates:
+- Marketing Principles
+- Customer Service
+Relevant Courses:
+Financial & Managerial Accounting, Investment, Database Design, Business Analytics, and Operations
+Management
 
-- Sizar
+## Experience
 
-`1667 - death`
-__Trinity College, Cambridge__
+Online Academic Support Hiring Assistant June 2022 – Present
+Brigham Young University – Idaho Rexburg, Idaho
+ Demonstrated proficiency in Excel and Power BI by using advanced functions to analyze and present
+data to support decision-making processes.
+ Organized and maintained job postings for teaching assistant positions across three university platforms.
+ Built strong relationships with department chairs, professors, and teaching assistants in the business,
+accounting, computer science, and healthcare departments.
+ Mentored a diverse group of over 50 students by actively improving their performance and academic
+experience.
+ Ensured compliance with federal regulations by verifying I-9 forms and other documents.
 
-- Fellow
+Full-time Volunteer Representative January 2020 – January 2022
+The Church of Jesus Christ of Latter-day Saints Nicaragua, Belize, and El Salvador
+ Analyzed data from multiple volunteer groups to identify trends, issues, and improvements.
+ Utilized strong negotiation skills to secure favorable pricing agreements with suppliers across Nicaragua.
+ Scheduled delivery routes, exceeded delivery goals by 85%, and managed ecclesiastical materials
+ensuring delivery and quality control.
+ Developed leadership skills through several responsibility positions moving hard work among large
+groups.
 
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+## SKILLS AND TECHNICAL COMPETENCIES
+ Proficient with Excel, PowerPoint, Microsoft Word, Python, MySQL, R Studio, and Canva Design.
+ Native Spanish speaker; Fluent in English.
 
 
 
